@@ -1,0 +1,3 @@
+[submodule "sega-utils"]
+	path = sega-utils
+	url = https://github.com/mahyarsamani/sega-utils.git
